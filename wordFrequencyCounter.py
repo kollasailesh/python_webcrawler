@@ -38,5 +38,4 @@ def create_Dictionary(clean_Word_List):
 
 
 
-
 start("https://www.thenewboston.com/forum/")
